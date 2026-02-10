@@ -1,0 +1,58 @@
+.navigation{
+                display:flex;
+                position:absolute;
+                right:10px;
+                top:10px;
+                gap:10px;
+} 
+
+.search_link_in_image{
+                display:block;
+                text-align:right;
+                position:absolute;
+                right:10px;
+                top:10px;
+}
+.search_link_in_advanced_search{
+                display:block;
+                text-align:right;
+                position:absolute;
+                right:10px;
+                top:10px;
+}
+.google_search_box{
+    align:center;
+    border-radius: 30px;
+    width:700px;
+    height:50px;
+    border-style: solid;
+}
+.google_search_button{
+    border-radius: 20px;
+    width:200px;
+    height:50px;
+    border-style: solid;
+
+}
+.search_form_container{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;    
+    height: 100vh;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center; 
+    gap: 15px;                
+}
+
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    margin: 0;
+}
