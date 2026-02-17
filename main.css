@@ -6,35 +6,35 @@
                 gap:10px;
 } 
 
-.search_link_in_image{
+.search-link-in-image{
                 display:block;
                 text-align:right;
                 position:absolute;
                 right:10px;
                 top:10px;
 }
-.search_link_in_advanced_search{
+.search-link-in-advanced_search{
                 display:block;
                 text-align:right;
                 position:absolute;
                 right:10px;
                 top:10px;
 }
-.google_search_box{
+.google-search-box{
     align:center;
     border-radius: 30px;
     width:700px;
     height:50px;
     border-style: solid;
 }
-.google_search_button{
+.google-search-button{
     border-radius: 20px;
     width:200px;
     height:50px;
     border-style: solid;
 
 }
-.search_form_container{
+.search-form-container{
     display:flex;
     justify-content: center;
     flex-direction: column;
